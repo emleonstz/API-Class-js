@@ -9,7 +9,7 @@ I use this JavaScript class for making API requests
 *  API request handling (`fetch` wrapper)
 *  Optional `apiKey` parameter 
 *  Built-in error handling (network + HTTP)
-*  Loader hooks (`showLoader` / `hideLoader`)
+*  Loader hooks (`showLoader` / `hideLoader`) define to your project
 *  Convenience methods: `get`, `post`, `put`, `delete`
 *  Extendable for project-specific endpoints
 
