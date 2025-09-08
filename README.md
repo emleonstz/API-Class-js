@@ -6,7 +6,7 @@ I use this JavaScript class for making API requests
 
 ## ✨ Features
 
-*  Centralized API request handling (`fetch` wrapper)
+*  API request handling (`fetch` wrapper)
 *  Optional `apiKey` parameter 
 *  Built-in error handling (network + HTTP)
 *  Loader hooks (`showLoader` / `hideLoader`)
